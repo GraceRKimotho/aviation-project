@@ -24,15 +24,18 @@ Data on accident: Event Id, Investigation Type, Accident Number, Event Date, Loc
 
 In this analysis, we concentrate on business charter flights from the year 2005 onward. This is because the aircraft industry has seen significant advancements, and including older data points could skew the results.
 The result of this analysis will be a list of recommended makes and models, determined by calculating accident survival rates.
-Business flights accidents rates over the years
-![screenshot1](images/screen1.png)
+Total Accidents by Year
+![Screenshot 2024-06-09 225219](https://github.com/GraceRKimotho/aviation-project/assets/169874753/7a1aa868-cc65-46f9-9755-ff615d62f49b)
 
-Survival rate for airplane business flight by make
-![screenshot2](images/screen2.png)
+
+Business Flights Accidents by Year
+![Screenshot 2024-06-09 225145](https://github.com/GraceRKimotho/aviation-project/assets/169874753/65dfc9f8-76b5-453b-b8f1-c6c4d8514a06)
+
 
 
 
 Tableau dashboard
+https://public.tableau.com/app/profile/grace.kimotho/viz/VariedRelationshipsVisualizationsAviationData/Dashboard1?publish=yes
 
 
 
