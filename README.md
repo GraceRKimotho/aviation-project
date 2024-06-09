@@ -53,7 +53,7 @@ States with higher risk to avoid: Alaska, Texas.
 July and August are higher risk months, lowest risk are December and January.
 
 #### Risk Management
-The CEO should ensure efficient Risk Assessment and insurance for allaspects related to the airplanes, especially accidents. This will help cushion them from extreme losses thereby maximizing the profits made.
+The CEO should ensure efficient Risk Assessment and insurance for allaspects related to the airplanes. These include weather forecasting, thorough and routine inspections and continuous monitoring and evaluation. This will help cushion them from extreme losses thereby maximizing the profits made.
 
 
 
