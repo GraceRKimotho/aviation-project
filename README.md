@@ -1,8 +1,9 @@
-## Aviation Accidents Analysis
+## Aviation Business Analysis
 
 ### Overview 
+The aim of the project is to conduct analysis for a business looking to diversify its portfolio into the aviation industry. They are particularly interested in purchasing and operating airplanes for commercial and private enterprises.
 
-The project aims to support the development of a new aviation business line by providing three business recommendations based on thorough data analysis. The objective is to identify the lowest-risk aircraft makes and models for the company to consider for its new aviation ventures. 
+The dataset is from the National Transportation Safety Board that includes aviation accident data from 1962 to 2023 about civil aviation accidents and selected incidents in the United State International waters.
 
 The presented analysis focuses on key variables such as aircraft make and model, fatalities, time of accidents and accident locations. By addressing missing data, interpreting and visualizing the information, the analysis seeks to offer data-driven insights.
 
@@ -21,16 +22,15 @@ Data on accident: Event Id, Investigation Type, Accident Number, Event Date, Loc
 
 ### Data Understanding and Analysis
 
-In this analysis we focus on business charter flights in two categories - airplanes and helicopters in the United States. We analyse relevant accidents - dated after 2005, as the aircarft industry has developed significantly and older data points can distort the findings. As an outcome of this analysis we will be able to provide lists of recommended makes and models for both categories based on calculating accident survival rates.
-
+In this analysis, we concentrate on business charter flights from the year 2005 onward. This is because the aircraft industry has seen significant advancements, and including older data points could skew the results.
+The result of this analysis will be a list of recommended makes and models, determined by calculating accident survival rates.
 Business flights accidents rates over the years
 ![screenshot1](images/screen1.png)
 
 Survival rate for airplane business flight by make
 ![screenshot2](images/screen2.png)
 
-Survival rate for helicopter business flight by make
-![screenshot3](images/screen3.png)
+
 
 Tableau dashboard
 ![screenshot3](images/screen4.png)
@@ -40,8 +40,7 @@ Tableau dashboard
 
 ### Summary
 
-Based on the analysis of the provided aviation accidents data, here are the key findings and actionable insights to help decide which aircraft to purchase for the new aviation division:
-
+From the analysis of the provided aviation accident data, here are the main findings and actionable insights to guide the decision on which aircraft to purchase for the new aviation division:
 #### Business Airplane Flights Division:
 
 Prioritize when considering airplanes from following manufacturers: Piper, Cessna, Cirrus.
@@ -53,14 +52,12 @@ Airplanes Models to consider:
 States with higher risk to avoid: Alaska, Texas.
 July and August are higher risk months, lowest risk are December and January.
 
-#### Business Helicopter Flights Division:
-Prioritize when considering helicopters from following manufacturers: Bell Make and Robinson.
-Helicopters Models to concider:
-* Robinson R44 and R44 II.
-* Bell 407.
+#### Risk Management
+The CEO should ensure efficient Risk Assessment and insurance for allaspects related to the airplanes, especially accidents. This will help cushion them from extreme losses thereby maximizing the profits made.
 
-States with higher risk to avoid: Texas, Arizona.
-August and September are higher risk months, lowest risk are December through April.
+
+
+
 
 #### Links
 
