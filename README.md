@@ -33,7 +33,7 @@ Survival rate for airplane business flight by make
 
 
 Tableau dashboard
-![screenshot3](images/screen4.png)
+
 
 
 
@@ -63,4 +63,4 @@ The CEO should ensure efficient Risk Assessment and insurance for allaspects rel
 
 [Github repository for the project](https://github.com/GraceRKimotho/aviation-project))
 
-[Tableau dashborad](https://public.tableau.com/app/profile/dolgor.purbueva/viz/AviationAccidentsProject/Dashboard)
+[Tableau dashborad](https://public.tableau.com/app/profile/grace.kimotho/viz/VariedRelationshipsVisualizationsAviationData/Dashboard1?publish=yes)
