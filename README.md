@@ -64,6 +64,6 @@ The CEO should ensure efficient Risk Assessment and insurance for allaspects rel
 
 #### Links
 
-[Github repository for the project](https://github.com/GraceRKimotho/aviation-project))
+[Github repository for the project](https://github.com/GraceRKimotho/aviation-project)
 
-[Tableau dashborad](https://public.tableau.com/app/profile/grace.kimotho/viz/VariedRelationshipsVisualizationsAviationData/Dashboard1?publish=yes)
+[Tableau dashboard](https://public.tableau.com/app/profile/grace.kimotho/viz/VariedRelationshipsVisualizationsAviationData/Dashboard1?publish=yes)
